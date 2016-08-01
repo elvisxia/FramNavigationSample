@@ -41,7 +41,6 @@ namespace FramNavigationSample.Pages
             };
             myStackPanel.Children.Add(newFrame);
             newFrame.Navigate(typeof(SubPageOne));
-                        
         }
     }
 }
